@@ -1,0 +1,56 @@
+Question 2:
+
+(A)
+
+Sums:
+Units Sold: 249980949
+Unit Cost: $9366124.11
+Total Revenue: $66185806881.22
+Total Cost: $46657869932.97
+Total Profit: $19527936948.25
+
+(B)
+
+Averages:
+Units Sold: 4999.62
+Unit Cost: $187.32
+Total Revenue: $1323716.14
+Total Cost: $933157.4
+Total Profit: $390558.74
+
+(C)
+
+Maximums:
+Units Sold: 10000
+Unit Cost: $524.96
+Total Revenue: $6682031.73
+Total Cost: $5249075.04
+Total Profit: $1738178.39
+Question 2:
+
+(A)
+
+Sums:
+Units Sold: 249980949
+Unit Cost: $9366124.11
+Total Revenue: $66185806881.22
+Total Cost: $46657869932.97
+Total Profit: $19527936948.25
+
+(B)
+
+Averages:
+Units Sold: 4999.62
+Unit Cost: $187.32
+Total Revenue: $1323716.14
+Total Cost: $933157.4
+Total Profit: $390558.74
+
+(C)
+
+Maximums:
+Units Sold: 10000
+Unit Cost: $524.96
+Total Revenue: $6682031.73
+Total Cost: $5249075.04
+Total Profit: $1738178.39
